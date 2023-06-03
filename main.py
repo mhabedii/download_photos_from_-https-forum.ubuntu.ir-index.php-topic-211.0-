@@ -19,7 +19,7 @@ def list_image_links(url):
     with open('my_file.txt', 'a') as my_file:
         for branch in image_links:
             my_file.write(branch + '\n')
-            print('File created')
+            print('Links writed to the .txt file')
     
 def download_links():
     # Download all links
