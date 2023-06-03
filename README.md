@@ -1,7 +1,7 @@
 # download_photos_from_-https-forum.ubuntu.ir-index.php-topic-211.0-
 Download all screenshot photos from [https://forum.ubuntu.ir/index.php?topic=211.0] topic
 
-[If you like to have a large collection of GNU/Linux desktops, use this program]
+[If you like to have a large collection of screenshots of GNU/Linux desktops, use this program]
 # How to use
 ### How to run for systems with 8 GB of RAM and above:
 Just run the .py file and wait for the links to be saved in the .txt file and downloaded.
